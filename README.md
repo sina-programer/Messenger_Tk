@@ -23,7 +23,9 @@ With this program, you can be messaging between server & client!
 ![preview](/Files/preview.png)
 
 ### Usage:
-- First run server and next client
+1. Run server
+2. Run client
+3. Enter IP & PORT that specify in the server
 
 ### Credits:
 - Icons made by [icons8](https://icons8.com/)
