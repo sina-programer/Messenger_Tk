@@ -14,6 +14,7 @@ With this program, you can be messaging between server & client!
 
 ### Features:
 - Separate messages with a specific color
+- Specify the sender of the message
 
 ### Requirements:
 - socket
