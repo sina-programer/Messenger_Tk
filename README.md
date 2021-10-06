@@ -13,8 +13,8 @@
 With this program, you can be messaging between server & client!
 
 ### Features:
-- Separate messages with a specific color
-- Specify the sender of the message
+- Server & client have a specific color and username
+- Server and client can personalize their color and username globally
 
 ### Requirements:
 - socket
